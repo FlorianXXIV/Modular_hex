@@ -1,3 +1,5 @@
+#!/bin/fish
+
 if not test -d ./build
 	mkdir build
 end
